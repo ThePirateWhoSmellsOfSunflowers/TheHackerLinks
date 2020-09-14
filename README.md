@@ -28,6 +28,8 @@ Cryptocurrency / Cryptoscam
 
 * [Coinbase moved $5 billion in crypto as part of an upgrade it was worried would take a toll on the market ](https://www.theblockcrypto.com/tiny/coinbase-moved-5-billion-in-crypto-as-part-of-an-upgrade-it-was-worried-would-take-a-toll-on-the-market/)
 
+* [Traders on a $1 billion cryptocurrency exchange say they can't withdraw money and are left in the dark about why](https://www.businessinsider.com/bittrex-customers-withdrawal-problems-identification-2017-12)
+
 * [Why are Tether tokens selling for less than 1 USD?](https://medium.com/@andrewiyer/why-are-tether-tokens-selling-for-less-than-1-usd-bf1bcd1f16fd)
 
 * [Once hailed as unhackable, blockchains are now getting hacked](https://www.technologyreview.com/s/612974/once-hailed-as-unhackable-blockchains-are-now-getting-hacked/)
@@ -40,6 +42,11 @@ Cryptocurrency / Cryptoscam
 )
 
 * [How to read a crypto market depth chart, and why people went “HOLY CRAP” at the overnight Tether chart](https://davidgerard.co.uk/blockchain/2018/01/28/how-to-read-a-crypto-market-depth-chart-and-why-people-went-holy-crap-at-the-overnight-tether-chart/)
+
+* [The Trillion Dollar Lawsuit, Part One](https://danco.substack.com/p/the-trillion-dollar-lawsuit-part)
+
+* [One Tether Trader Didn't Cause the Bitcoin Bubble](https://www.bloomberg.com/opinion/articles/2019-11-05/did-the-bitcoin-bubble-come-from-one-bitfinex-tether-trader)
+
 
 Finance, economy, trading, invest / 
 --------------------------------------
@@ -56,6 +63,23 @@ Finance, economy, trading, invest /
 
 * [The Gazillion-Dollar Standoff Over Two High-Frequency Trading Towers](https://www.bloombergquint.com/bq-blue-exclusive/the-gazillion-dollar-standoff-over-two-high-frequency-trading-towers)
 
+* [“He’s Full of Shit”: How Elon Musk Fooled Investors, Bilked Taxpayers, and Gambled Tesla to Save SolarCity](https://www.vanityfair.com/news/2019/08/how-elon-musk-gambled-tesla-to-save-solarcity) ❤️
+
+* [How hedge funds use satellite images to beat Wall Street—and Main Street](http://newsroom.haas.berkeley.edu/how-hedge-funds-use-satellite-images-to-beat-wall-street-and-main-street/)
+
+* [How to lose $1B in 10 seconds](https://thehustle.co/gerald-ratners-billion-dollar-speech)
+
+* [Brexit Disaster Capitalism: £8 Billion Bet on No Deal Crash-Out by Boris Johnson’s Leave Backers](https://bylinetimes.com/2019/09/11/brexit-disaster-capitalism-8-billion-bet-on-no-deal-crash-out-by-boris-johnsons-leave-backers/)
+
+* [Credit Suisse's Spying Scandal Started With a Fight at a New Year's Party](https://www.bloomberg.com/news/articles/2019-10-01/thiam-and-khan-fought-at-a-party-it-only-got-worse-from-there)
+
+* [The Trade of the Century: When George Soros Broke the British Pound](https://priceonomics.com/the-trade-of-the-century-when-george-soros-broke/) ❤️
+
+* [Reddit’s Profane, Greedy Traders Are Shaking Up the Stock Market](https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market)
+
+* [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage)
+
+
 Ad fraud / Adpocalypse
 ----------------------
 
@@ -66,6 +90,12 @@ Ad fraud / Adpocalypse
 * [This Giant Ad Fraud Scheme Drained Users' Batteries And Data By Running Hidden Video Ads In Android Apps](https://www.buzzfeednews.com/article/craigsilverman/in-banner-video-ad-fraud)
 
 * [Popular Apps In Google's Play Store Are Abusing Permissions And Committing Ad Fraud](https://www.buzzfeednews.com/article/craigsilverman/google-play-store-ad-fraud-du-group-baidu)
+
+* [What are click farms? A shadowy internet industry is booming in China](https://finance.yahoo.com/news/click-farms-internet-china-154440209.html)
+
+* [America’s DIY Phone Farmers](https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm)
+
+* [The new dot com bubble is here: it’s called online advertising ](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) ❤️
 
 Online radicalization / Fake News
 ---------------------------------
@@ -86,17 +116,30 @@ Online radicalization / Fake News
 
 * [Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
 
-Politic / 
---------------------
+* [How YouTube Radicalized Brazil](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html)
 
-* [The Unbelievable Story Of The Plot Against George Soros](https://www.buzzfeednews.com/article/hnsgrassegger/george-soros-conspiracy-finkelstein-birnbaum-orban-netanyahu) ❤️
+* [Massive "I Love America" Facebook page, pushing pro-Trump propaganda, is run by Ukrainians](https://popular.info/p/massive-i-love-america-facebook-page)
 
-Opioid crisis / 
---------------------
+* [Accelerationism: the obscure idea inspiring white supremacist killers around the world](https://www.vox.com/the-highlight/2019/11/11/20882005/accelerationism-white-supremacy-christchurch)
+
+* [Disinformation For Hire: How A New Breed Of PR Firms Is Selling Lies Online](https://www.buzzfeednews.com/article/craigsilverman/disinformation-for-hire-black-pr-firms)
+
+* [Experts Say Neo-Nazi 'Accelerationists' Discuss Taking Advantage of Coronavirus Crisis](https://www.vice.com/en_us/article/pkewgv/experts-say-neo-nazi-accelerationists-discuss-taking-advantage-of-coronavirus-crisis)
+
+Opioid crisis / The Sacklers's arc
+----------------------------------
 
 * [OxyContin Maker Explored Expansion Into “Attractive” Anti-Addiction Market](https://www.propublica.org/article/oxycontin-purdue-pharma-massachusetts-lawsuit-anti-addiction-market)
 
 * [More than 1 million OxyContin pills ended up in the hands of criminals and addicts. What the drugmaker knew](https://www.latimes.com/projects/la-me-oxycontin-part2/)
+
+* [Sacklers Would Give Up Ownership of Purdue Pharma Under Settlement Proposal](https://www.nytimes.com/2019/08/27/health/sacklers-purdue-pharma-opioid-settlement.html)
+
+* [New York Uncovers $1 Billion in Sackler Family Wire Transfers](https://www.nytimes.com/2019/09/13/health/sacklers-purdue-opioids.html)
+
+* [I was a drug rep. I know how pharma companies pushed opioids.](https://www.washingtonpost.com/outlook/i-was-a-drug-rep-i-know-how-pharma-companies-pushed-opioids/2019/11/25/82b1da88-beb9-11e9-9b73-fd3c65ef8f9c_story.html)
+
+* [Health-Records Company Pushed Opioids to Doctors in Secret Deal With Drugmaker](https://www.bloomberg.com/news/articles/2020-01-29/health-records-company-pushed-opioids-to-doctors-in-secret-deal)
 
 Architecture
 ------------
@@ -104,8 +147,8 @@ Architecture
 * [These Soviet-Era Spas Are Still Accepting Guests](https://www.wired.com/story/soviet-era-spa-gallery/)
 
 
-Spying tool / 
------------------------
+Spying tool / Spy / Cyber war
+-----------------------------
 
 * [Malware Companies Are Finding New Ways to Spy on iPhones](https://motherboard.vice.com/en_us/article/mby7kq/malware-to-spy-hack-iphones)
 
@@ -123,7 +166,23 @@ Spying tool /
 
 * [American hackers helped UAE spy on Al Jazeera chairman, BBC host](https://www.reuters.com/investigates/special-report/usa-raven-media/)
 
+* [The Russian Sleuth Who Outs Moscow's Elite Hackers and Assassins](https://www.wired.com/story/roman-dobrokhotov-insider-russia-gru-bellingcat/)
+
 * [Team of American Hackers and Emirati Spies Discussed Attacking The Intercept](https://theintercept.com/2019/06/12/darkmatter-uae-hack-intercept/)
+
+* [Nation-sponsored hackers likely carried out hostile takeover of rival group’s servers](https://arstechnica.com/information-technology/2019/06/researchers-think-nation-sponsored-hackers-attacked-rival-espionage-group/)
+
+* [How The U.S. Hacked ISIS](https://www.npr.org/2019/09/26/763545811/how-the-u-s-hacked-isis)
+
+* [Revealed: How a secret Dutch mole aided the U.S.-Israeli Stuxnet cyberattack on Iran](https://news.yahoo.com/revealed-how-a-secret-dutch-mole-aided-the-us-israeli-stuxnet-cyber-attack-on-iran-160026018.html)
+
+* [The inside story of the world's most dangerous malware](https://www.eenews.net/stories/1060123327)
+
+* [Source code of Iranian cyber-espionage tools leaked on Telegram](https://www.zdnet.com/article/source-code-of-iranian-cyber-espionage-tools-leaked-on-telegram/)
+
+* [Tibetans hit by the same mobile malware targeting Uyghurs](https://techcrunch.com/2019/09/24/tibetans-iphone-android-hacks-uyghurs/)
+
+* [White House veterans helped Gulf monarchy build secret surveillance unit](https://www.reuters.com/investigates/special-report/usa-raven-whitehouse/)
 
 Hacking Team / Hacked Team
 --------------------------
@@ -176,8 +235,28 @@ Cybercrime /
 
 * [What Should We Do About the Past Crimes of Reformed Hackers?](https://slate.com/technology/2019/04/marcus-hutchins-guilty-plea-wannacry-ransomware-kronos.html)
 
-Infosec /
----------
+* [Darknet cybercrime servers hosted in former NATO bunker in Germany](https://amp.dw.com/en/darknet-cybercrime-servers-hosted-in-former-nato-bunker-in-germany/a-50618469)
+
+* [What Happened When The FBI Took Over The Instagram And Kik Of A Child Porn Dealer](https://www.forbes.com/sites/thomasbrewster/2019/03/06/exclusive-the-fbi-took-over-the-online-identity-of-a-pedophile-letting-child-porn-spread-for-18-months)
+
+* [Thieves Somehow Stole 100 Car2Go Cars in Chicago](https://motherboard.vice.com/en_us/article/wjv8dw/thieves-steal-100-car2go-cars-chicago)
+
+* [Bitcoin hacker sentenced to 10 years in first-ever conviction for ‘SIM swap’ scheme ](https://www.mercurynews.com/2019/04/22/bitcoin-hacker-sentenced-to-10-years-in-first-ever-conviction-for-sim-swap-scheme/)
+
+* [The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/)
+
+Infosec world / Infosec news
+----------------------------
+
+* [I Gave a Bounty Hunter $300. Then He Located Our Phone](https://motherboard.vice.com/en_us/article/nepxbz/i-gave-a-bounty-hunter-300-dollars-located-phone-microbilt-zumigo-tmobile)
+
+* [Hundreds of Bounty Hunters Had Access to AT&T, T-Mobile, and Sprint Customer Location Data for Years](https://motherboard.vice.com/en_us/article/43z3dn/hundreds-bounty-hunters-att-tmobile-sprint-customer-location-data-years)
+
+* [Hackers Can Slip Invisible Malware into 'Bare Metal' Cloud Computers](https://www.wired.com/story/dark-metal-cloud-computers-invisible-malware/)
+
+* [The Prototype iPhones That Hackers Use to Research Apple’s Most Sensitive Code](https://motherboard.vice.com/en_us/article/gyakgw/the-prototype-dev-fused-iphones-that-hackers-use-to-research-apple-zero-days)
+
+* [Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers](https://motherboard.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers)
 
 
 
@@ -228,16 +307,52 @@ IT stories / How it works ?
 
 * [Negotiations Failed: How Oracle killed Java EE.](https://headcrashing.wordpress.com/2019/05/03/negotiations-failed-how-oracle-killed-java-ee/)
 
+* [Google backtracks on Chrome modifications that would have crippled ad blockers](https://www.zdnet.com/article/google-backtracks-on-chrome-modifications-that-would-have-crippled-ad-blockers/)
+
+* [Why a Grape Turns Into a Fireball in a Microwave](https://www.wired.com/story/why-a-grape-turns-into-a-fireball-in-a-microwave/)
+
+* [What to Do When You Get Sherlocked by Apple](https://blog.astropad.com/sherlocked-by-apple/)
+
+* [The real first post on Instagram](https://birdeatsbug.com/real-first-post-on-instagram)
+
+* [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/)
+
 What a story !
 --------------
 
 * [(John McAfee) This might be the craziest Bath Salt story you ever read. NSFW](https://www.resetera.com/threads/john-mcafee-this-might-be-the-craziest-bath-salt-story-you-ever-read-nsfw.52119/)
 
+* [The Unbelievable Story Of The Plot Against George Soros](https://www.buzzfeednews.com/article/hnsgrassegger/george-soros-conspiracy-finkelstein-birnbaum-orban-netanyahu) ❤️
+
 * [The Tinder Hacker](https://www.thecut.com/2019/05/the-tinder-hacker.html) ❤️
 
+* [Catfished by Jacob Wohl](https://gen.medium.com/catfished-by-jacob-wohl-23f35da1cbcc)
 
+* [Security reports reveal how Assange turned an embassy into a command post for election meddling](https://edition.cnn.com/2019/07/15/politics/assange-embassy-exclusive-documents/index.html)
 
+* [Guantánamo’s Darkest Secret](https://www.newyorker.com/magazine/2019/04/22/guantanamos-darkest-secret) ❤️
 
+* [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code) ❤️
+
+* [The Lonely Life of a Yacht Influencer](https://melmagazine.com/en-us/story/the-lonely-life-of-a-yacht-influencer)
+
+* [The Tragic Tale Of How NASA's X-34 Space Planes Ended Up Rotting In Someone's Backyard](http://www.thedrive.com/the-war-zone/26546/the-tragic-tale-of-how-nasas-x-34-space-planes-ended-up-rotting-in-someones-backyard)
+
+* [How Football Leaks Is Exposing Corruption in European Soccer](https://www.newyorker.com/magazine/2019/06/03/how-football-leaks-is-exposing-corruption-in-european-soccer) ❤️
+
+* [Inside Syria’s Secret Torture Prisons: How Bashar al-Assad Crushed Dissent](https://www.nytimes.com/2019/05/11/world/middleeast/syria-torture-prisons.html)
+
+* [What the C.I.A.’s Torture Program Looked Like to the Tortured](https://www.nytimes.com/2019/12/04/us/politics/cia-torture-drawings.html)
+
+* [The Tokyo Job: Inside Carlos Ghosn’s Escape to Beirut](https://www.bloomberg.com/news/features/2020-01-14/how-nissan-s-carlos-ghosn-was-smuggled-out-of-japan)
+
+* [Trapped in Iran](https://www.economist.com/news/2020/01/28/trapped-in-iran) ❤️
+
+* [Utopia, Abandoned](https://www.nytimes.com/2019/08/28/t-magazine/olivetti-typewriters-ivrea-italy.html)
+
+* [Forced Labor and Torture in a Chinese Jail](http://www.spiegel.de/international/world/ex-german-prisoner-exposes-life-in-a-chinese-prison-a-1256413.html)
+
+* [This Man Owns The World's Most Advanced Private Air Force After Buying 46 F/A-18 Hornets](https://www.thedrive.com/the-war-zone/32869/this-man-owns-the-worlds-most-adva+nced-private-air-force-after-buying-46-f-a-18-hornets)
 
 Dead Links
 ----------
