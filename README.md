@@ -85,7 +85,7 @@ Ad fraud / Adpocalypse
 
 * [Apps Installed On Millions Of Android Phones Tracked User Behavior To Execute A Multimillion-Dollar Ad Fraud Scheme](https://www.buzzfeednews.com/article/craigsilverman/how-a-massive-ad-fraud-scheme-exploited-android-phones-to)
 
-* [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually.](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html)
+* [How Much of the Internet Is Fake? Turns Out, a Lot of It, Actually.](https://nymag.com/intelligencer/2018/12/how-much-of-the-internet-is-fake.html) ❤️
 
 * [This Giant Ad Fraud Scheme Drained Users' Batteries And Data By Running Hidden Video Ads In Android Apps](https://www.buzzfeednews.com/article/craigsilverman/in-banner-video-ad-fraud)
 
@@ -106,7 +106,7 @@ Online radicalization / Fake News
 
 * [Extreme neo-Nazi 'death cults' drawing in children as young as 13, report warns](https://www.independent.co.uk/news/uk/home-news/far-right-neo-nazi-uk-extremism-children-teenagers-report-hope-not-hate-a8781941.html)
 
-* [The Trauma Floor : The secret lives of Facebook moderators in America](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions)
+* [The Trauma Floor : The secret lives of Facebook moderators in America](https://www.theverge.com/2019/2/25/18229714/cognizant-facebook-content-moderator-interviews-trauma-working-conditions) ❤️
 
 * [YouTube Is Rolling Out A Feature That Shows Fact-Checks When People Search For Sensitive Topics](https://www.buzzfeednews.com/article/pranavdixit/youtube-debunk-information-panels-india)
 
@@ -114,7 +114,7 @@ Online radicalization / Fake News
 
 * [The Making of a YouTube Radical](https://www.nytimes.com/interactive/2019/06/08/technology/youtube-radical.html)
 
-* [Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa)
+* [Bodies in Seats](https://www.theverge.com/2019/6/19/18681845/facebook-moderator-interviews-video-trauma-ptsd-cognizant-tampa) ❤️
 
 * [How YouTube Radicalized Brazil](https://www.nytimes.com/2019/08/11/world/americas/youtube-brazil.html)
 
@@ -131,7 +131,7 @@ Opioid crisis / The Sacklers's arc
 
 * [OxyContin Maker Explored Expansion Into “Attractive” Anti-Addiction Market](https://www.propublica.org/article/oxycontin-purdue-pharma-massachusetts-lawsuit-anti-addiction-market)
 
-* [More than 1 million OxyContin pills ended up in the hands of criminals and addicts. What the drugmaker knew](https://www.latimes.com/projects/la-me-oxycontin-part2/)
+* [More than 1 million OxyContin pills ended up in the hands of criminals and addicts. What the drugmaker knew](https://www.latimes.com/projects/la-me-oxycontin-part2/) ❤️
 
 * [Sacklers Would Give Up Ownership of Purdue Pharma Under Settlement Proposal](https://www.nytimes.com/2019/08/27/health/sacklers-purdue-pharma-opioid-settlement.html)
 
@@ -196,7 +196,7 @@ OSINT / Mostly bell¿ngcat
 
 * [Dali, Warhol, Boshirov: Determining the Time of an Alleged Photograph from Skripal Suspect Chepiga](https://www.bellingcat.com/resources/how-tos/2018/10/24/dali-warhol-boshirov-determining-time-alleged-photograph-skripal-suspect-chepiga/)
 
-* [he Mysterious Disappearance of Jeannette Island (on Google Maps)](https://www.bellingcat.com/news/rest-of-world/2019/01/09/the-mysterious-disappearance-of-jeannette-island-on-google-maps/)
+* [The Mysterious Disappearance of Jeannette Island (on Google Maps)](https://www.bellingcat.com/news/rest-of-world/2019/01/09/the-mysterious-disappearance-of-jeannette-island-on-google-maps/)
 
 * [Houthis Use Armed Drone to Target Yemeni Army Top Brass ](https://www.bellingcat.com/news/mena/2019/01/10/houthis-use-armed-drone-to-target-yemeni-army-top-brass/)
 
@@ -207,7 +207,7 @@ OSINT / Mostly bell¿ngcat
 Scam / Fake
 -------------------------
 
-* [L'incroyable histoire du "Madoff" français](https://www.lexpress.fr/actualite/societe/l-incroyable-histoire-du-madoff-francais_2043901.html)
+* [L'incroyable histoire du "Madoff" français](https://www.lexpress.fr/actualite/societe/l-incroyable-histoire-du-madoff-francais_2043901.html) ❤️
 
 * [The Swede created a $400,000 Indiegogo-scam – is Zen Blanket his next project?](https://www.breakit.se/artikel/17260/the-swede-created-a-400-000-indiegogo-scam-is-this-his-next-project)
 
