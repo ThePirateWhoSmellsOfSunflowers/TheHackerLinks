@@ -1,8 +1,8 @@
 The Hacker Links
 ================
 
-Cryptocurrency / Cryptoscam
----------------------------
+Cryptocurrency / Cryptoscam / Exchangescam / Tetherscam
+-------------------------------------------------------
 
 * [A Retrospective of the EOS Token Sale](https://media.consensys.net/a-retrospective-of-the-eos-token-sale-172d3437932b)
 
@@ -47,9 +47,15 @@ Cryptocurrency / Cryptoscam
 
 * [One Tether Trader Didn't Cause the Bitcoin Bubble](https://www.bloomberg.com/opinion/articles/2019-11-05/did-the-bitcoin-bubble-come-from-one-bitfinex-tether-trader)
 
+* [Is Estonia the Home of Satoshi Nakamoto?](https://medium.com/swlh/is-estonia-the-home-of-satoshi-nakamoto-a-strong-case-for-mike-gault-70dd871b2dba)
 
-Finance, economy, trading, invest / 
---------------------------------------
+* [Was Bitcoin Created by This International Drug Dealer? Maybe!](https://www.wired.com/story/was-bitcoin-created-by-this-international-drug-dealer-maybe/)
+
+* [A 'Blockchain Bandit' Is Guessing Private Keys and Scoring Millions](https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/)
+
+
+Finance / economy / trading / invest / fintech
+----------------------------------------------
 
 * [Teaching people to trade stocks is like starting them on heroin](https://www.evidenceinvestor.com/teaching-people-to-trade-stocks-is-like-starting-them-on-heroin-munger/)
 
@@ -80,8 +86,8 @@ Finance, economy, trading, invest /
 * [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage)
 
 
-Ad fraud / Adpocalypse
-----------------------
+Ad fraud / Adpocalypse / Fake
+-----------------------------
 
 * [Apps Installed On Millions Of Android Phones Tracked User Behavior To Execute A Multimillion-Dollar Ad Fraud Scheme](https://www.buzzfeednews.com/article/craigsilverman/how-a-massive-ad-fraud-scheme-exploited-android-phones-to)
 
@@ -97,8 +103,8 @@ Ad fraud / Adpocalypse
 
 * [The new dot com bubble is here: it’s called online advertising ](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) ❤️
 
-Online radicalization / Fake News
----------------------------------
+Online radicalization / Fake News / Social Network
+--------------------------------------------------
 
 * [We Followed YouTube’s Recommendation Algorithm Down The Rabbit Hole](https://www.buzzfeednews.com/article/carolineodonovan/down-youtubes-recommendation-rabbithole)
 
@@ -126,8 +132,8 @@ Online radicalization / Fake News
 
 * [Experts Say Neo-Nazi 'Accelerationists' Discuss Taking Advantage of Coronavirus Crisis](https://www.vice.com/en_us/article/pkewgv/experts-say-neo-nazi-accelerationists-discuss-taking-advantage-of-coronavirus-crisis)
 
-Opioid crisis / The Sacklers's arc
-----------------------------------
+Opioid crisis / The Sacklers's arc / Oxycontin
+----------------------------------------------
 
 * [OxyContin Maker Explored Expansion Into “Attractive” Anti-Addiction Market](https://www.propublica.org/article/oxycontin-purdue-pharma-massachusetts-lawsuit-anti-addiction-market)
 
@@ -141,11 +147,22 @@ Opioid crisis / The Sacklers's arc
 
 * [Health-Records Company Pushed Opioids to Doctors in Secret Deal With Drugmaker](https://www.bloomberg.com/news/articles/2020-01-29/health-records-company-pushed-opioids-to-doctors-in-secret-deal)
 
-Architecture
-------------
+Architecture / Photo / Other / Art
+----------------------------------
 
 * [These Soviet-Era Spas Are Still Accepting Guests](https://www.wired.com/story/soviet-era-spa-gallery/)
 
+* [L'incroyable histoire du "Madoff" français](https://www.lexpress.fr/actualite/societe/l-incroyable-histoire-du-madoff-francais_2043901.html) ❤️
+
+* [The Swede created a $400,000 Indiegogo-scam – is Zen Blanket his next project?](https://www.breakit.se/artikel/17260/the-swede-created-a-400-000-indiegogo-scam-is-this-his-next-project)
+
+* [Fyre Festival Was a Huge Scam. Is Netflix’s Fyre Documentary a Scam, Too?](https://newrepublic.com/article/153095/fyre-festival-huge-scam-netflixs-fyre-documentary-scam-too)
+
+* ['They didn't look old enough': who filled a French art gallery with fakes?](https://www.theguardian.com/global/2019/jun/15/french-art-museum-full-of-fakes-etienne-terrus)
+
+* [Why are glasses so expensive? The eyewear industry prefers to keep that blurry](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
+
+* [The Man Behind @ComfortablySmug, Hurricane Sandy's Worst Twitter Villain](https://www.buzzfeednews.com/article/jackstuef/the-man-behind-comfortablysmug-hurricane-sandys)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -204,26 +221,8 @@ OSINT / Mostly bell¿ngcat
 
 * [Locating The Netherlands' Most Wanted Criminal By Scrutinising Instagram ](https://www.bellingcat.com/news/uk-and-europe/2019/03/19/locating-the-netherlands-most-wanted-criminal-by-scrutinising-instagram/)
 
-Scam / Fake
--------------------------
-
-* [L'incroyable histoire du "Madoff" français](https://www.lexpress.fr/actualite/societe/l-incroyable-histoire-du-madoff-francais_2043901.html) ❤️
-
-* [The Swede created a $400,000 Indiegogo-scam – is Zen Blanket his next project?](https://www.breakit.se/artikel/17260/the-swede-created-a-400-000-indiegogo-scam-is-this-his-next-project)
-
-* [Fyre Festival Was a Huge Scam. Is Netflix’s Fyre Documentary a Scam, Too?](https://newrepublic.com/article/153095/fyre-festival-huge-scam-netflixs-fyre-documentary-scam-too)
-
-* ['They didn't look old enough': who filled a French art gallery with fakes?](https://www.theguardian.com/global/2019/jun/15/french-art-museum-full-of-fakes-etienne-terrus)
-
-???
----
-
-* [Why are glasses so expensive? The eyewear industry prefers to keep that blurry](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
-
-* [The Man Behind @ComfortablySmug, Hurricane Sandy's Worst Twitter Villain](https://www.buzzfeednews.com/article/jackstuef/the-man-behind-comfortablysmug-hurricane-sandys)
-
-Cybercrime / 
---------------------
+Cybercrime / Crime
+------------------
 
 * [True Identity of Notorious Hacker tessa88 Revealed ](https://www.recordedfuture.com/tessa88-identity-revealed/)
 
@@ -244,6 +243,12 @@ Cybercrime /
 * [Bitcoin hacker sentenced to 10 years in first-ever conviction for ‘SIM swap’ scheme ](https://www.mercurynews.com/2019/04/22/bitcoin-hacker-sentenced-to-10-years-in-first-ever-conviction-for-sim-swap-scheme/)
 
 * [The Confessions of Marcus Hutchins, the Hacker Who Saved the Internet](https://www.wired.com/story/confessions-marcus-hutchins-hacker-who-saved-the-internet/)
+
+* [Tracking Phones, Google Is a Dragnet for the Police](https://www.nytimes.com/interactive/2019/04/13/us/google-location-tracking-police.html)
+
+* [Tufts expelled a student for grade hacking. She claims innocence](https://techcrunch.com/2019/03/08/tufts-grade-hacking/)
+
+* [CARBANAK Week Part One: A Rare Occurrence](https://www.fireeye.com/blog/threat-research/2019/04/carbanak-week-part-one-a-rare-occurrence.html)
 
 Infosec world / Infosec news
 ----------------------------
@@ -290,6 +295,10 @@ Exploit / 1337
 * [Analysis of a VB Script Heap Overflow (CVE-2019-0666)](https://www.malwaretech.com/2019/04/analysis-of-a-vb-script-heap-overflow.html)
 
 * [Exploiting Apache Solr through OpenCMS](https://www.shielder.it/blog/exploit-apache-solr-through-opencms/)
+
+* [CVE-2019-8513 TimeMachine root command injection](https://medium.com/0xcc/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43)
+
+* [CARPE (DIEM): CVE-2019-0211 Apache Root Privilege Escalation](https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html)
 
 Privacy /
 ------------
@@ -353,6 +362,8 @@ What a story !
 * [Forced Labor and Torture in a Chinese Jail](http://www.spiegel.de/international/world/ex-german-prisoner-exposes-life-in-a-chinese-prison-a-1256413.html)
 
 * [This Man Owns The World's Most Advanced Private Air Force After Buying 46 F/A-18 Hornets](https://www.thedrive.com/the-war-zone/32869/this-man-owns-the-worlds-most-adva+nced-private-air-force-after-buying-46-f-a-18-hornets)
+
+* [How China Turned a City Into a Prison](https://www.nytimes.com/interactive/2019/04/04/world/asia/xinjiang-china-surveillance-prison.html)
 
 Dead Links
 ----------
