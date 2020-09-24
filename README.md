@@ -53,6 +53,10 @@ Cryptocurrency / Cryptoscam / Exchangescam / Tetherscam
 
 * [A 'Blockchain Bandit' Is Guessing Private Keys and Scoring Millions](https://www.wired.com/story/blockchain-bandit-ethereum-weak-private-keys/)
 
+* [The Great Crypto Heist](https://www.project-syndicate.org/commentary/cryptocurrency-exchanges-are-financial-scams-by-nouriel-roubini-2019-07)
+
+* [Cryptoqueen: How this woman scammed the world, then vanished](https://www.bbc.com/news/stories-50435014)
+
 
 Finance / economy / trading / invest / fintech
 ----------------------------------------------
@@ -86,6 +90,8 @@ Finance / economy / trading / invest / fintech
 * [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage)
 
 * [Coinbase Offline As Cryptos Collapse, Bitcoin Loses $1500 In Minutes](https://www.zerohedge.com/news/2019-06-26/cryptos-collapse-bitcoin-loses-1500-minutes)
+
+* [Wall Street’s Trading Desks Endure Worst First Half in a Decade](https://www.bloomberg.com/news/articles/2019-07-18/wall-street-s-trading-desks-face-worst-first-half-in-a-decade)
 
 
 Ad fraud / Adpocalypse / Fake
@@ -134,6 +140,12 @@ Online radicalization / Fake News / Social Network
 
 * [Experts Say Neo-Nazi 'Accelerationists' Discuss Taking Advantage of Coronavirus Crisis](https://www.vice.com/en_us/article/pkewgv/experts-say-neo-nazi-accelerationists-discuss-taking-advantage-of-coronavirus-crisis)
 
+* [The Neo-Fascist Proud Boys Organized a “Free Speech” Rally in DC. It Flopped.](https://www.motherjones.com/politics/2019/07/the-neo-fascist-proud-boys-organized-a-free-speech-rally-in-dc-today-it-flopped/)
+
+* [The American Dark Money Behind Europe’s Far Right](https://www.nybooks.com/daily/2019/07/10/the-american-dark-money-behind-europes-far-right/)
+
+* [Exclusive: The true origins of the Seth Rich conspiracy theory. A Yahoo News investigation.](https://news.yahoo.com/exclusive-the-true-origins-of-the-seth-rich-conspiracy-a-yahoo-news-investigation-100000831.html)
+
 Opioid crisis / The Sacklers's arc / Oxycontin
 ----------------------------------------------
 
@@ -165,6 +177,8 @@ Architecture / Photo / Other / Art
 * [Why are glasses so expensive? The eyewear industry prefers to keep that blurry](https://www.latimes.com/business/lazarus/la-fi-lazarus-why-are-eyeglasses-so-expensive-20190122-story.html)
 
 * [The Man Behind @ComfortablySmug, Hurricane Sandy's Worst Twitter Villain](https://www.buzzfeednews.com/article/jackstuef/the-man-behind-comfortablysmug-hurricane-sandys)
+
+* [Notre-Dame came far closer to collapsing than people knew. This is how it was saved.](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -209,6 +223,8 @@ Spying tool / Spy / Cyber war
 
 * [Revealed: This Is Palantir’s Top-Secret User Manual for Cops](https://www.vice.com/en_us/article/9kx4z8/revealed-this-is-palantirs-top-secret-user-manual-for-cops)
 
+* [Leaked documents reveal Huawei’s secret operations to build North Korea’s wireless network](https://www.washingtonpost.com/world/national-security/leaked-documents-reveal-huaweis-secret-operations-to-build-north-koreas-wireless-network/2019/07/22/583430fe-8d12-11e9-adf3-f70f78c156e8_story.html)
+
 Hacking Team / Hacked Team
 --------------------------
 
@@ -228,6 +244,8 @@ OSINT / Mostly bell¿ngcat
 * [Where’s Babiš? Geolocating the Alleged Father-Son Kidnapping Mystery ](https://www.bellingcat.com/news/2019/02/07/wheres-babis-geolocating-the-alleged-father-son-kidnapping-mystery/)
 
 * [Locating The Netherlands' Most Wanted Criminal By Scrutinising Instagram ](https://www.bellingcat.com/news/uk-and-europe/2019/03/19/locating-the-netherlands-most-wanted-criminal-by-scrutinising-instagram/)
+
+* [The GRU Globetrotters: Mission London](https://www.bellingcat.com/news/uk-and-europe/2019/06/28/the-gru-globetrotters-mission-london/)
 
 Cybercrime / Crime
 ------------------
@@ -262,6 +280,8 @@ Cybercrime / Crime
 
 * [Usenet file-swapping was acceptable in the '80s – but not so much now: Pirate pair sent down for 66 months](https://www.theregister.co.uk/2019/07/12/a_pair_of_usenet_pirates_get_66_months_behind_bars/)
 
+* [The sinkhole that saved the internet](https://techcrunch.com/2019/07/08/the-wannacry-sinkhole/)
+
 Infosec world / Infosec news
 ----------------------------
 
@@ -278,6 +298,10 @@ Infosec world / Infosec news
 * [Technical Details on the Recent Firefox Add-on Outage](https://hacks.mozilla.org/2019/05/technical-details-on-the-recent-firefox-add-on-outage/)
 
 * [Monsieur Cuisine Connect : micro caché, Android non sécurisé… les dessous du robot cuiseur de Lidl](https://www.numerama.com/tech/525214-monsieur-cuisine-connect-micro-cache-android-non-securise-les-dessous-du-robot-cuisine-de-lidl.html)
+
+* [Researchers Easily Trick Cylance's AI-Based Antivirus Into Thinking Malware Is 'Goodware'](https://www.vice.com/en_ca/article/9kxp83/researchers-easily-trick-cylances-ai-based-antivirus-into-thinking-malware-is-goodware)
+
+* [Much @Stake: The Band of Hackers That Defined an Era](https://www.wired.com/story/cult-of-the-dead-cow-at-stake-hackers-excerpt/)
 
 Exploit / 1337
 --------------
@@ -319,6 +343,14 @@ Exploit / 1337
 * [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b)
 
 * [Unfixable Seed Extraction on Trezor - A practical and reliable attack](https://ledger-donjon.github.io/Unfixable-Key-Extraction-Attack-on-Trezor/)
+
+* [Zoom Zero Day: 4+ Million Webcams & maybe an RCE? Just get them to visit your website!](https://medium.com/@jonathan.leitschuh/zoom-zero-day-4-million-webcams-maybe-an-rce-just-get-them-to-visit-your-website-ac75c83f4ef5)
+
+* [Analysis of an Atlassian Crowd RCE - CVE-2019-11580](https://www.corben.io/atlassian-crowd-rce/)
+
+* [Attacking SSL VPN - Part 1: PreAuth RCE on Palo Alto GlobalProtect, with Uber as Case Study!](http://blog.orange.tw/2019/07/attacking-ssl-vpn-part-1-preauth-rce-on-palo-alto.html)
+
+* [Zoom Zero Day Followup: Getting the RCE](https://blog.assetnote.io/bug-bounty/2019/07/17/rce-on-zoom/)
 
 Privacy /
 ------------
@@ -392,6 +424,22 @@ What a story !
 * [Beto O’Rourke’s secret membership in America’s oldest hacking group](https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/)
 
 * [Meet the New York couple donating millions to the anti-vax movement](https://www.washingtonpost.com/national/health-science/meet-the-new-york-couple-donating-millions-to-the-anti-vax-movement/2019/06/18/9d791bcc-8e28-11e9-b08e-cfd89bd36d4e_story.html)
+
+* ['You've caused an international incident': how my work mistake came back to haunt me](https://www.theguardian.com/film/2019/jul/27/international-incident-work-mistake-official-secrets-film)
+
+* [Google Employee Writes Memo About ‘The Burden of Being Black at Google’](https://www.vice.com/en_us/article/43kd3w/google-employee-memo-about-being-black-at-google)
+
+* [The Internet Is Overrun With Images of Child Sexual Abuse. What Went Wrong?](https://www.nytimes.com/interactive/2019/09/28/us/child-sex-abuse.html)
+
+* [Three Years of Misery Inside Google, the Happiest Company in Tech](https://www.wired.com/story/inside-google-three-years-misery-happiest-company-tech/)
+
+* [Science’s pirate queen](https://www.theverge.com/2018/2/8/16985666/alexandra-elbakyan-sci-hub-open-access-science-papers-lawsuit)
+
+* [Fearing for his life](https://www.theverge.com/2019/3/13/18253848/eric-garner-footage-ramsey-orta-police-brutality-killing-safety)
+
+* [A black principal, four white teens and the ‘senior prank’ that became a hate crime ](https://www.washingtonpost.com/graphics/2019/local/teen-graffiti-hate-crime-divides-maryland-high-school/)
+
+* [The World's Second Largest Wikipedia Is Written Almost Entirely by One Bot](https://www.vice.com/en_us/article/4agamm/the-worlds-second-largest-wikipedia-is-written-almost-entirely-by-one-bot)
 
 Dead Links
 ----------
