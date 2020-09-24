@@ -85,6 +85,8 @@ Finance / economy / trading / invest / fintech
 
 * [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage)
 
+* [Coinbase Offline As Cryptos Collapse, Bitcoin Loses $1500 In Minutes](https://www.zerohedge.com/news/2019-06-26/cryptos-collapse-bitcoin-loses-1500-minutes)
+
 
 Ad fraud / Adpocalypse / Fake
 -----------------------------
@@ -201,6 +203,12 @@ Spying tool / Spy / Cyber war
 
 * [White House veterans helped Gulf monarchy build secret surveillance unit](https://www.reuters.com/investigates/special-report/usa-raven-whitehouse/)
 
+* [Hacking (Back) and Influence Operations](https://blog.0day.rocks/hacking-back-and-influence-operations-85cd52c1e933)
+
+* [In Baltimore and Beyond, a Stolen N.S.A. Tool Wreaks Havoc](https://www.nytimes.com/2019/05/25/us/nsa-hacking-tool-baltimore.html)
+
+* [Revealed: This Is Palantir’s Top-Secret User Manual for Cops](https://www.vice.com/en_us/article/9kx4z8/revealed-this-is-palantirs-top-secret-user-manual-for-cops)
+
 Hacking Team / Hacked Team
 --------------------------
 
@@ -250,6 +258,10 @@ Cybercrime / Crime
 
 * [CARBANAK Week Part One: A Rare Occurrence](https://www.fireeye.com/blog/threat-research/2019/04/carbanak-week-part-one-a-rare-occurrence.html)
 
+* [The Scene: Pirates Ripping Content From Amazon & Netflix](https://torrentfreak.com/the-scene-pirates-ripping-content-from-amazon-netflix-190707/)
+
+* [Usenet file-swapping was acceptable in the '80s – but not so much now: Pirate pair sent down for 66 months](https://www.theregister.co.uk/2019/07/12/a_pair_of_usenet_pirates_get_66_months_behind_bars/)
+
 Infosec world / Infosec news
 ----------------------------
 
@@ -263,7 +275,9 @@ Infosec world / Infosec news
 
 * [Hackers Hijacked ASUS Software Updates to Install Backdoors on Thousands of Computers](https://motherboard.vice.com/en_us/article/pan9wn/hackers-hijacked-asus-software-updates-to-install-backdoors-on-thousands-of-computers)
 
+* [Technical Details on the Recent Firefox Add-on Outage](https://hacks.mozilla.org/2019/05/technical-details-on-the-recent-firefox-add-on-outage/)
 
+* [Monsieur Cuisine Connect : micro caché, Android non sécurisé… les dessous du robot cuiseur de Lidl](https://www.numerama.com/tech/525214-monsieur-cuisine-connect-micro-cache-android-non-securise-les-dessous-du-robot-cuisine-de-lidl.html)
 
 Exploit / 1337
 --------------
@@ -299,6 +313,12 @@ Exploit / 1337
 * [CVE-2019-8513 TimeMachine root command injection](https://medium.com/0xcc/rootpipe-reborn-part-i-cve-2019-8513-timemachine-root-command-injection-47e056b3cb43)
 
 * [CARPE (DIEM): CVE-2019-0211 Apache Root Privilege Escalation](https://cfreal.github.io/carpe-diem-cve-2019-0211-apache-local-root.html)
+
+* [Love is in the air: Reverse Engineering a shitty drone](https://ezequieltbh.me/posts/2019/05/love-is-in-the-air-reverse-engineering-a-shitty-drone/)
+
+* [Exploiting CSRF on JSON endpoints with Flash and redirects](https://blog.appsecco.com/exploiting-csrf-on-json-endpoints-with-flash-and-redirects-681d4ad6b31b)
+
+* [Unfixable Seed Extraction on Trezor - A practical and reliable attack](https://ledger-donjon.github.io/Unfixable-Key-Extraction-Attack-on-Trezor/)
 
 Privacy /
 ------------
@@ -339,7 +359,7 @@ What a story !
 
 * [Security reports reveal how Assange turned an embassy into a command post for election meddling](https://edition.cnn.com/2019/07/15/politics/assange-embassy-exclusive-documents/index.html)
 
-* [Guantánamo’s Darkest Secret](https://www.newyorker.com/magazine/2019/04/22/guantanamos-darkest-secret) ❤️
+* [Guantánamo’s Darkest Secret](https://www.newyorker.com/magazine/2019/04/22/guantanamos-darkest-secret) ❤️❤️
 
 * [The Gambler Who Cracked the Horse-Racing Code](https://www.bloomberg.com/news/features/2018-05-03/the-gambler-who-cracked-the-horse-racing-code) ❤️
 
@@ -364,6 +384,14 @@ What a story !
 * [This Man Owns The World's Most Advanced Private Air Force After Buying 46 F/A-18 Hornets](https://www.thedrive.com/the-war-zone/32869/this-man-owns-the-worlds-most-adva+nced-private-air-force-after-buying-46-f-a-18-hornets)
 
 * [How China Turned a City Into a Prison](https://www.nytimes.com/interactive/2019/04/04/world/asia/xinjiang-china-surveillance-prison.html)
+
+* [Scene report from the Chernobyl Zone](https://moxie.org/stories/chernobyl-scene-report/)
+
+* [The U.S. put nuclear waste under a dome on a Pacific island. Now it’s cracking open.](https://www.washingtonpost.com/nation/2019/05/20/us-put-nuclear-waste-under-dome-pacific-island-now-its-cracking-open)
+
+* [Beto O’Rourke’s secret membership in America’s oldest hacking group](https://www.reuters.com/investigates/special-report/usa-politics-beto-orourke/)
+
+* [Meet the New York couple donating millions to the anti-vax movement](https://www.washingtonpost.com/national/health-science/meet-the-new-york-couple-donating-millions-to-the-anti-vax-movement/2019/06/18/9d791bcc-8e28-11e9-b08e-cfd89bd36d4e_story.html)
 
 Dead Links
 ----------
