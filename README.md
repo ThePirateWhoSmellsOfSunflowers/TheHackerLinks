@@ -57,6 +57,12 @@ Cryptocurrency / Cryptoscam / Exchangescam / Tetherscam
 
 * [Cryptoqueen: How this woman scammed the world, then vanished](https://www.bbc.com/news/stories-50435014)
 
+* [Facebook’s New Currency Has Big Claims and Bad Ideas](https://foreignpolicy.com/2019/06/24/971554-facebook-bitcoin-libra-crypto-bad/)
+
+* [A Lone Bitcoin Whale Likely Fueled 2017 Surge, Study Finds](https://www.bloomberg.com/news/articles/2019-11-04/lone-bitcoin-whale-likely-fueled-2017-price-surge-study-says)
+
+* [What Really Happened With West Virginia’s Blockchain Voting Experiment?](https://slate.com/technology/2019/07/west-virginia-blockchain-voting-voatz.html)
+
 
 Finance / economy / trading / invest / fintech
 ----------------------------------------------
@@ -93,6 +99,11 @@ Finance / economy / trading / invest / fintech
 
 * [Wall Street’s Trading Desks Endure Worst First Half in a Decade](https://www.bloomberg.com/news/articles/2019-07-18/wall-street-s-trading-desks-face-worst-first-half-in-a-decade)
 
+* [WeWork IPO Shows It’s the Most Magical Unicorn](https://www.bloomberg.com/opinion/articles/2019-08-14/wework-ipo-shows-it-s-the-most-magical-unicorn)
+
+* [The Hedge Fund Billionaire’s Guide to Buying Your Kids a Better Shot at Not Just One Elite College, but Lots of Them](https://www.propublica.org/article/hedge-fund-billionaires-donations-college-admissions-elite-universities)
+
+* [From pecan pralines to ‘dots’ as currency: how the prison economy works ](https://www.theguardian.com/us-news/2019/aug/30/prison-economy-informal-markets-alternative-currencies) ❤️
 
 Ad fraud / Adpocalypse / Fake
 -----------------------------
@@ -110,6 +121,8 @@ Ad fraud / Adpocalypse / Fake
 * [America’s DIY Phone Farmers](https://www.vice.com/en_us/article/d3naek/how-to-make-a-phone-farm)
 
 * [The new dot com bubble is here: it’s called online advertising ](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) ❤️
+
+* [How A Massive Facebook Scam Siphoned Millions Of Dollars From Unsuspecting Boomers](https://www.buzzfeednews.com/article/craigsilverman/facebook-subscription-trap-free-trial-scam-ads-inc)
 
 Online radicalization / Fake News / Social Network
 --------------------------------------------------
@@ -146,6 +159,10 @@ Online radicalization / Fake News / Social Network
 
 * [Exclusive: The true origins of the Seth Rich conspiracy theory. A Yahoo News investigation.](https://news.yahoo.com/exclusive-the-true-origins-of-the-seth-rich-conspiracy-a-yahoo-news-investigation-100000831.html)
 
+* [Walmart banned open carry and I know why. I paid attention when I carried my gun around.](https://www.nbcnews.com/think/opinion/walmart-banned-open-carry-i-know-why-i-paid-attention-ncna1054396)
+
+* [Google made large contributions to climate change deniers ](https://www.theguardian.com/environment/2019/oct/11/google-contributions-climate-change-deniers)
+
 Opioid crisis / The Sacklers's arc / Oxycontin
 ----------------------------------------------
 
@@ -160,6 +177,8 @@ Opioid crisis / The Sacklers's arc / Oxycontin
 * [I was a drug rep. I know how pharma companies pushed opioids.](https://www.washingtonpost.com/outlook/i-was-a-drug-rep-i-know-how-pharma-companies-pushed-opioids/2019/11/25/82b1da88-beb9-11e9-9b73-fd3c65ef8f9c_story.html)
 
 * [Health-Records Company Pushed Opioids to Doctors in Secret Deal With Drugmaker](https://www.bloomberg.com/news/articles/2020-01-29/health-records-company-pushed-opioids-to-doctors-in-secret-deal)
+
+* [How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
 
 Architecture / Photo / Other / Art
 ----------------------------------
@@ -179,6 +198,10 @@ Architecture / Photo / Other / Art
 * [The Man Behind @ComfortablySmug, Hurricane Sandy's Worst Twitter Villain](https://www.buzzfeednews.com/article/jackstuef/the-man-behind-comfortablysmug-hurricane-sandys)
 
 * [Notre-Dame came far closer to collapsing than people knew. This is how it was saved.](https://www.nytimes.com/interactive/2019/07/16/world/europe/notre-dame.html)
+
+* [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)
+
+* [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -225,6 +248,12 @@ Spying tool / Spy / Cyber war
 
 * [Leaked documents reveal Huawei’s secret operations to build North Korea’s wireless network](https://www.washingtonpost.com/world/national-security/leaked-documents-reveal-huaweis-secret-operations-to-build-north-koreas-wireless-network/2019/07/22/583430fe-8d12-11e9-adf3-f70f78c156e8_story.html)
 
+* [Researchers Say They Uncovered Uzbekistan Hacking Operations Due to Spectacularly Bad OPSEC](https://www.vice.com/en_us/article/3kx5y3/uzbekistan-hacking-operations-uncovered-due-to-spectacularly-bad-opsec)
+
+* [A BREEJ TOO FAR: How Abu Dhabi’s Spy Sheikh hid his Chat App in Plain Sight](https://medium.com/@billmarczak/how-tahnoon-bin-zayed-hid-totok-in-plain-sight-group-42-breej-4e6c06c93ba6)
+
+* [How Saudi Arabia Infiltrated Twitter](https://www.buzzfeednews.com/article/alexkantrowitz/how-saudi-arabia-infiltrated-twitter)
+
 Hacking Team / Hacked Team
 --------------------------
 
@@ -246,6 +275,10 @@ OSINT / Mostly bell¿ngcat
 * [Locating The Netherlands' Most Wanted Criminal By Scrutinising Instagram ](https://www.bellingcat.com/news/uk-and-europe/2019/03/19/locating-the-netherlands-most-wanted-criminal-by-scrutinising-instagram/)
 
 * [The GRU Globetrotters: Mission London](https://www.bellingcat.com/news/uk-and-europe/2019/06/28/the-gru-globetrotters-mission-london/)
+
+* [Lega Nord's Bedfellows: Russians Offering Illicit Funding to Italian Far-Right Party Identified ](https://www.bellingcat.com/news/uk-and-europe/2019/09/03/lega-nords-bedfellows-russians-offering-illicit-funding-to-italian-far-right-party-identified/)
+
+* [Debunking the Binance Police Raids with OSINT](https://www.bellingcat.com/news/rest-of-world/2019/11/26/debunking-the-binance-police-raids-with-osint/)
 
 Cybercrime / Crime
 ------------------
@@ -282,6 +315,12 @@ Cybercrime / Crime
 
 * [The sinkhole that saved the internet](https://techcrunch.com/2019/07/08/the-wannacry-sinkhole/)
 
+* [https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c](https://medium.com/@c5/darkweb-vendors-and-the-basic-opsec-mistakes-they-keep-making-e54c285a488c)
+
+* [Building Out ProtonMail Spoofed Infrastructure with Creation Timestamp Pivoting](https://threatconnect.com/blog/building-out-protonmail-spoofed-infrastructure)
+
+* [The FBI Tried to Plant a Backdoor in an Encrypted Phone Network](https://www.vice.com/en_us/article/pa73dz/fbi-tried-to-plant-backdoor-in-encrypted-phone-phantom-secure)
+
 Infosec world / Infosec news
 ----------------------------
 
@@ -302,6 +341,8 @@ Infosec world / Infosec news
 * [Researchers Easily Trick Cylance's AI-Based Antivirus Into Thinking Malware Is 'Goodware'](https://www.vice.com/en_ca/article/9kxp83/researchers-easily-trick-cylances-ai-based-antivirus-into-thinking-malware-is-goodware)
 
 * [Much @Stake: The Band of Hackers That Defined an Era](https://www.wired.com/story/cult-of-the-dead-cow-at-stake-hackers-excerpt/)
+
+* ['Chronicle Is Dead and Google Killed It'](https://www.vice.com/en_us/article/9kej3e/chronicle-is-dead-and-google-killed-it)
 
 Exploit / 1337
 --------------
@@ -352,12 +393,20 @@ Exploit / 1337
 
 * [Zoom Zero Day Followup: Getting the RCE](https://blog.assetnote.io/bug-bounty/2019/07/17/rce-on-zoom/)
 
+* [A Technical Analysis of the Capital One Hack](https://blog.cloudsploit.com/a-technical-analysis-of-the-capital-one-hack-a9b43d7c8aea)
+
+* [How a double-free bug in WhatsApp turns to RCE ](https://awakened1712.github.io/hacking/hacking-whatsapp-gif-rce/)
+
+* [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
+
 Privacy /
 ------------
 
 * [Stop Using Third-Party Weather Apps](https://motherboard.vice.com/en_us/article/gy77wy/stop-using-third-party-weather-apps)
 
 * [Facebook planned to spy on Android phone users, internal emails reveal](https://www.computerweekly.com/news/252458208/Facebook-planned-to-spy-on-Android-phone-users-internal-emails-reveal)
+
+* [Microsoft Contractors Are Listening to Some Skype Calls](https://www.vice.com/en_us/article/xweqbq/microsoft-contractors-listen-to-skype-calls)
 
 IT stories / How it works ?
 ---------------------------
@@ -377,6 +426,10 @@ IT stories / How it works ?
 * [The real first post on Instagram](https://birdeatsbug.com/real-first-post-on-instagram)
 
 * [The Case of the Top Secret iPod](https://tidbits.com/2020/08/17/the-case-of-the-top-secret-ipod/)
+
+* [The Project Jengo Saga: How Cloudflare Stood up to a Patent Troll – and Won!](https://blog.cloudflare.com/the-project-jengo-saga-how-cloudflare-stood-up-to-a-patent-troll-and-won/)
+
+* [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
 
 What a story !
 --------------
@@ -441,11 +494,34 @@ What a story !
 
 * [The World's Second Largest Wikipedia Is Written Almost Entirely by One Bot](https://www.vice.com/en_us/article/4agamm/the-worlds-second-largest-wikipedia-is-written-almost-entirely-by-one-bot)
 
+* [The Kim Jong-nam assassination: meet the Indonesian woman caught up in the plot](https://www.scmp.com/magazines/post-magazine/long-reads/article/3031514/kim-jong-nam-assassination-meet-indonesian-woman)
+
+* [The Big Bitcoin Heist](https://www.vanityfair.com/news/2019/11/the-big-bitcoin-heist)
+
+* [The Iran Cables: Secret Documents Show How Tehran Wields Power in Iraq](https://www.nytimes.com/interactive/2019/11/18/world/middleeast/iran-iraq-spy-cables.html) ❤️
+
+* [When Bloomberg News’s Reporting on China Was Challenged, Bloomberg Tried to Ruin Me for Speaking Out](https://theintercept.com/2020/02/18/mike-bloomberg-lp-nda-china/)
+
+* [A Ballet School Rehired an Embezzler. Then $1.5 Million Vanished.](https://www.nytimes.com/2020/03/16/arts/dance/kirov-ballet-academy-embezzlement-moonies.html)
+
+* [The Hunt for Narco Subs](https://www.vice.com/en_us/article/vvbwwb/the-hunt-for-narco-subs) ❤️
+
+* [Pablo Escobar’s Hippos Fill a Hole Left Since Ice Age Extinctions](https://www.nytimes.com/2020/03/26/science/pablo-escobar-hippos.html)
+
+* [The Devastating Decline of a Brilliant Young Coder](https://www.wired.com/story/lee-holloway-devastating-decline-brilliant-young-coder/) ❤️
+
+* [A Casino Card Shark’s First Time Getting Caught](https://narratively.com/a-casino-card-sharks-first-time-getting-caught/)
+
+* [The Mysterious Lawyer X](https://story.californiasunday.com/lawyer-x-melbourne)
+
+
 Dead Links
 ----------
 
 * https://blog.zerononcense.com/2018/10/28/whalepool-and-bitfinex-are-now-violating-federal-laws-to-dox-members-of-the-crypto-community-its-getting-out-of-hand-now
 
 * https://blog.zerononcense.com/2019/02/16/report-shows-quadrigacx-cold-wallets-actively-involved-in-significant-criminal-activity-ties-to-silk-road-hacked-funds-identity-theft-and-drug-human-trafficking
+
+* https://www.sec-down.com/wordpress/?p=809
 
 
