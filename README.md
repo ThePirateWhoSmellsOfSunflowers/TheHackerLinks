@@ -82,6 +82,8 @@ Cryptocurrency / Cryptoscam / Exchangescam / Tetherscam
 
 * [What Really Happened With West Virginia’s Blockchain Voting Experiment?](https://slate.com/technology/2019/07/west-virginia-blockchain-voting-voatz.html)
 
+* [What happens when a 96 bitcoin ransom payment ends up on Bitfinex?](http://jpkoning.blogspot.com/2020/01/what-happens-when-96-bitcoin-ransom.html)
+
 
 Finance / economy / trading / invest / fintech
 ----------------------------------------------
@@ -112,7 +114,7 @@ Finance / economy / trading / invest / fintech
 
 * [Reddit’s Profane, Greedy Traders Are Shaking Up the Stock Market](https://www.bloomberg.com/news/articles/2020-02-26/reddit-s-profane-greedy-traders-are-shaking-up-the-stock-market)
 
-* [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage)
+* [Doordash and Pizza Arbitrage](https://themargins.substack.com/p/doordash-and-pizza-arbitrage) ❤️
 
 * [Coinbase Offline As Cryptos Collapse, Bitcoin Loses $1500 In Minutes](https://www.zerohedge.com/news/2019-06-26/cryptos-collapse-bitcoin-loses-1500-minutes)
 
@@ -123,6 +125,24 @@ Finance / economy / trading / invest / fintech
 * [The Hedge Fund Billionaire’s Guide to Buying Your Kids a Better Shot at Not Just One Elite College, but Lots of Them](https://www.propublica.org/article/hedge-fund-billionaires-donations-college-admissions-elite-universities)
 
 * [From pecan pralines to ‘dots’ as currency: how the prison economy works ](https://www.theguardian.com/us-news/2019/aug/30/prison-economy-informal-markets-alternative-currencies) ❤️
+
+* [Biopharma has abandoned antibiotic development. Here’s why we did, too.](https://endpts.com/biopharma-has-abandoned-antibiotic-development-heres-why-we-did-too/)
+
+* [Autistic futures trader who triggered crash spared prison](https://abcnews.go.com/US/wireStory/autistic-futures-trader-triggered-crash-spared-prison-68599310)
+
+* [Reddit Posters Pick the Stocks Now](https://www.bloomberg.com/opinion/articles/2020-02-26/reddit-posters-pick-the-stocks-now)
+
+* [Coronavirus Treatment Developed by Gilead Sciences Granted “Rare Disease” Status, Potentially Limiting Affordability](https://theintercept.com/2020/03/23/gilead-sciences-coronavirus-treatment-orphan-drug-status/)
+
+* [TikTok Owner’s Value Exceeds $100 Billion in Private Markets](https://www.bloomberg.com/news/articles/2020-05-20/tiktok-owner-s-value-surpasses-100-billion-in-private-markets)
+
+* [Even If You're Trying To Avoid Grubhub By Calling Your Favorite Restaurant Directly, Grubhub Could Still Be Charging It A Fee](https://www.buzzfeednews.com/article/venessawong/grubhub-phone-order-call-fee-coronavirus)
+
+* [London Traders Hit $500 Million Jackpot When Oil Went Negative](https://www.bloomberg.com/news/articles/2020-08-04/oil-s-plunge-below-zero-was-500-million-jackpot-for-a-few-london-traders)
+
+* [Losses at Revolut more than triple to £106m ](https://www.telegraph.co.uk/technology/2020/08/11/losses-monzo-rival-revolut-rise-105m/)
+
+* [You Can’t Kill the Bloomberg Terminal. But If You Were Going to Try, Here’s How.](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 
 Ad fraud / Adpocalypse / Fake
 -----------------------------
@@ -142,6 +162,8 @@ Ad fraud / Adpocalypse / Fake
 * [The new dot com bubble is here: it’s called online advertising ](https://thecorrespondent.com/100/the-new-dot-com-bubble-is-here-its-called-online-advertising/13228924500-22d5fd24) ❤️
 
 * [How A Massive Facebook Scam Siphoned Millions Of Dollars From Unsuspecting Boomers](https://www.buzzfeednews.com/article/craigsilverman/facebook-subscription-trap-free-trial-scam-ads-inc)
+
+* [Study: “LinkedIn is Basically a Money Pit” Because of Ad Fraud](https://www.samueljscott.com/2020/09/08/linkedin-ad-fraud/)
 
 Online radicalization / Fake News / Social Network
 --------------------------------------------------
@@ -182,6 +204,10 @@ Online radicalization / Fake News / Social Network
 
 * [Google made large contributions to climate change deniers ](https://www.theguardian.com/environment/2019/oct/11/google-contributions-climate-change-deniers)
 
+* [Captured American Mercenary Appears to Be Really Into Qanon](https://www.vice.com/en_us/article/qj4dvd/captured-american-mercenary-appears-to-be-really-into-qanon)
+
+* [Neo-Nazi Memoir Describes Terror Group’s Acid-Soaked Ram Sacrifice](https://www.vice.com/en_us/article/z3e3ew/neo-nazi-memoir-describes-terror-groups-acid-soaked-ram-sacrifice)
+
 Opioid crisis / The Sacklers's arc / Oxycontin
 ----------------------------------------------
 
@@ -198,6 +224,8 @@ Opioid crisis / The Sacklers's arc / Oxycontin
 * [Health-Records Company Pushed Opioids to Doctors in Secret Deal With Drugmaker](https://www.bloomberg.com/news/articles/2020-01-29/health-records-company-pushed-opioids-to-doctors-in-secret-deal)
 
 * [How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
+
+* [U.S. states seek $2.2 trillion from OxyContin maker Purdue Pharma: filings](https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG?il=0)
 
 Architecture / Photo / Other / Art
 ----------------------------------
@@ -221,6 +249,14 @@ Architecture / Photo / Other / Art
 * [How Banksy Authenticates His Work](https://reprage.com/post/how-banksy-authenticates-his-work)
 
 * [What HBO’s “Chernobyl” Got Right, and What It Got Terribly Wrong](https://www.newyorker.com/news/our-columnists/what-hbos-chernobyl-got-right-and-what-it-got-terribly-wrong)
+
+* [Hong Kong: A City Divided](https://www.nytimes.com/interactive/2019/11/23/world/asia/hong-kong-protesters-photos.html)
+
+* [Forsaken Village on Italy’s Coast Tells Tale of a Paradise Lost](https://www.nytimes.com/2017/05/17/world/europe/villaggio-coppola-italian-seaside.html)
+
+* [50 Cent loses it at Aussie painting murals of him as Taylor Swift & Trump](https://tonedeaf.thebrag.com/50-cent-feuding-with-aussie-artist/)
+
+* [The Perfect Art Heist: Hack the Money, Leave the Painting](https://www.bloomberg.com/features/2020-perfect-art-heist)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -273,12 +309,32 @@ Spying tool / Spy / Cyber war
 
 * [How Saudi Arabia Infiltrated Twitter](https://www.buzzfeednews.com/article/alexkantrowitz/how-saudi-arabia-infiltrated-twitter)
 
+* [NSO Group Pitched Phone Hacking Tech to American Police](https://www.vice.com/en_us/article/8899nz/nso-group-pitched-phone-hacking-tech-american-police)
+
+* [Dutch spies helped Britain's GCHQ break Argentine crypto during Falklands War](https://www.theregister.co.uk/2020/05/18/maximator_euro_spy_alliance_falklands_war/)
+
+* [NSO Group Impersonated Facebook to Help Clients Hack Targets](https://www.vice.com/en_us/article/qj4p3w/nso-group-hack-fake-facebook-domain)
+
+* [Inside the NSA’s Secret Tool for Mapping Your Social Network](https://www.wired.com/story/inside-the-nsas-secret-tool-for-mapping-your-social-network/)
+
+* [Phone of top Catalan politician 'targeted by government-grade spyware' ](https://www.theguardian.com/world/2020/jul/13/phone-of-top-catalan-politician-targeted-by-government-grade-spyware)
+
+* [The man who built a spyware empire says it’s time to come out of the shadows](https://www.technologyreview.com/2020/08/19/1007337/shalev-hulio-nso-group-spyware-interview)
+
+* [Inside NSO, Israel’s billion-dollar spyware giant](https://www.technologyreview.com/2020/08/19/1006458/nso-spyware-controversy-pegasus-human-rights)
+
+* [Cellphone Hacking and Millions in Gulf Deals: Inner Workings of Top Secret Israeli Cyberattack Firm Revealed](https://www.haaretz.com/israel-news/tech-news/.premium-mobile-spytech-millions-in-gulf-deals-top-secret-israeli-cyberattack-firm-reve-1.9125915)
+
 Hacking Team / Hacked Team
 --------------------------
 
 * [Hacking Team Hacker Phineas Fisher Has Gotten Away With It](https://motherboard.vice.com/en_us/article/3k9zzk/hacking-team-hacker-phineas-fisher-has-gotten-away-with-it)
 
 * [Coinbase Says Ex-Hacking Team Members Will ‘Transition Out’ After Users Protest](https://motherboard.vice.com/en_us/article/qvyndw/coinbase-says-ex-hacking-team-members-will-transition-out-after-users-protest)
+
+* [The fall and rise of a spyware empire](https://www.technologyreview.com/s/614767/the-fall-and-rise-of-a-spyware-empire/)
+
+* [Phineas Fisher Says They Paid $10,000 Bounty to Person Who Hacked Chilean Military](https://www.vice.com/en_us/article/wxeykb/phineas-fisher-says-they-paid-dollar10000-bounty-to-person-who-hacked-chilean-military)
 
 OSINT / Mostly bell¿ngcat
 -------------------------
@@ -298,6 +354,16 @@ OSINT / Mostly bell¿ngcat
 * [Lega Nord's Bedfellows: Russians Offering Illicit Funding to Italian Far-Right Party Identified ](https://www.bellingcat.com/news/uk-and-europe/2019/09/03/lega-nords-bedfellows-russians-offering-illicit-funding-to-italian-far-right-party-identified/)
 
 * [Debunking the Binance Police Raids with OSINT](https://www.bellingcat.com/news/rest-of-world/2019/11/26/debunking-the-binance-police-raids-with-osint/)
+
+* [Finding McAfee: A Case Study on Geoprofiling and Imagery Analysis](https://medium.com/@benjamindbrown/finding-mcafee-a-case-study-on-geoprofiling-and-imagery-analysis-6f16bbd5c219)
+
+* [Revealed: The Ukrainian Man Who Runs A Neo-Nazi Terrorist Telegram Channel ](https://www.bellingcat.com/news/2020/03/18/revealed-the-ukrainian-man-who-runs-a-neo-nazi-terrorist-telegram-channel/)
+
+* [Creating Impact: A Year On Stop Child Abuse —Trace An Object ](https://www.bellingcat.com/news/uk-and-europe/2020/04/22/creating-impact-a-year-on-stop-child-abuse-trace-an-object/)
+
+* [The Invasion of Venezuela, Brought To You By Silvercorp USA ](https://www.bellingcat.com/news/2020/05/05/the-invasion-of-venezuela-brought-to-you-by-silvercorp-usa/)
+
+* [Who Is Dmitry Badin, The GRU Hacker Indicted By Germany Over The Bundestag Hacks?](https://www.bellingcat.com/news/2020/05/05/who-is-dmitry-badin-the-gru-hacker-indicted-by-germany-over-the-bundestag-hacks/)
 
 Cybercrime / Crime
 ------------------
@@ -340,6 +406,12 @@ Cybercrime / Crime
 
 * [The FBI Tried to Plant a Backdoor in an Encrypted Phone Network](https://www.vice.com/en_us/article/pa73dz/fbi-tried-to-plant-backdoor-in-encrypted-phone-phantom-secure)
 
+* [The Great $50M African IP Address Heist](https://krebsonsecurity.com/2019/12/the-great-50m-african-ip-address-heist/)
+
+* [Inside an Instagram Celebrity Hacking Campaign](https://www.vice.com/en_us/article/z3bkjy/inside-instagram-celebrity-hacking)
+
+* [The Inside Scoop on a Six-Figure Nigerian Fraud Campaign](https://research.checkpoint.com/2020/the-inside-scoop-on-a-six-figure-nigerian-fraud-campaign/)
+
 Infosec world / Infosec news
 ----------------------------
 
@@ -363,8 +435,18 @@ Infosec world / Infosec news
 
 * ['Chronicle Is Dead and Google Killed It'](https://www.vice.com/en_us/article/9kej3e/chronicle-is-dead-and-google-killed-it)
 
-Exploit / 1337
---------------
+* [How a turf war and a botched contract landed 2 pentesters in Iowa jail](https://arstechnica.com/information-technology/2019/11/how-a-turf-war-and-a-botched-contract-landed-2-pentesters-in-iowa-jail/)
+
+* [How a Hacker's Mom Broke Into a Prison—and the Warden's Computer](https://www.wired.com/story/hackers-mom-broke-into-prison-wardens-computer/)
+
+* [Love Bug's creator tracked down to repair shop in Manila](https://www.bbc.com/news/technology-52458765)
+
+* [Facebook Helped the FBI Hack a Child Predator](https://www.vice.com/en_us/article/v7gd9b/facebook-helped-fbi-hack-child-predator-buster-hernandez)
+
+* [Hidden Linux kernel security fixes spotted before release – by using developer chatter as a side channel](https://www.theregister.com/2020/09/04/linux_kernel_flaw_detection/)
+
+Exploit / 1337 / Bug Bounty
+---------------------------
 
 * [Old School Pwning with New School Tricks :: Vanilla Forums domGetImages getimagesize Unserialize Remote Code Execution Vulnerability](https://srcincite.io/blog/2018/10/02/old-school-pwning-with-new-school-tricks-vanilla-forums-remote-code-execution.html)
 
@@ -418,6 +500,52 @@ Exploit / 1337
 
 * [Pwn the ESP32 Forever: Flash Encryption and Sec. Boot Keys Extraction](https://limitedresults.com/2019/11/pwn-the-esp32-forever-flash-encryption-and-sec-boot-keys-extraction/)
 
+* [Detecting Magisk Hide](https://darvincitech.wordpress.com/2019/11/04/detecting-magisk-hide/)
+
+* [Exploiting padding oracles with fixed IVs](https://blog.teddykatz.com/2019/11/23/json-padding-oracles.html)
+
+* [Breaking PHP's mt_rand() with 2 values and no bruteforce](https://www.ambionics.io/blog/php-mt-rand-prediction)
+
+* [Blind SQL Injection without an “in”](https://medium.com/@terjanq/blind-sql-injection-without-an-in-1e14ba1d4952)
+
+* [The Bug That Exposed Your PayPal Password](https://medium.com/@alex.birsan/the-bug-that-exposed-your-paypal-password-539fc2896da9)
+
+* [Wacom drawing tablets track the name of every application that you open](https://robertheaton.com/2020/02/05/wacom-drawing-tablets-track-name-of-every-application-you-open/)
+
+* [Bypassing Anti-Cheats – Part 1 – Exploiting Razer Synapse Driver ](https://niemand.com.ar/2020/02/07/bypassing-anti-cheats-part-1-exploiting-razer-synapse-driver/)
+
+* [Shopping for an admin account via path traversal ](https://about.gitlab.com/blog/2019/11/29/shopping-for-an-admin-account/)
+
+* [The never ending problems of local ASLR holes in Linux](https://blog.blazeinfosec.com/the-never-ending-problems-of-local-aslr-holes-in-linux/)
+
+* [From S3 bucket to Laravel unserialize RCE](https://blog.truesec.com/2020/02/12/from-s3-bucket-to-laravel-unserialize-rce/)
+
+* [Exploiting Netgear's Routerlogin.com](https://saleemrashid.com/2020/02/09/exploiting-netgear-routerlogin/)
+
+* [From memory corruption to disable_functions bypass: understanding PHP exploits](https://x-c3ll.github.io/posts/UAF-PHP-disable_functions/)
+
+* [Mass account takeovers using HTTP Request Smuggling on https://slackb.com/ to steal session cookies](https://hackerone.com/reports/737140)
+
+* [How to exploit Liferay CVE-2020-7961 : quick journey to PoC](https://www.synacktiv.com/posts/pentest/how-to-exploit-liferay-cve-2020-7961-quick-journey-to-poc.html)
+
+* [Webcam Hacking](https://www.ryanpickren.com/webcam-hacking) ❤️
+
+* [Beware of the GIF: Account Takeover Vulnerability in Microsoft Teams](https://www.cyberark.com/threat-research-blog/beware-of-the-gif-account-takeover-vulnerability-in-microsoft-teams/)
+
+* [1-click RCE on Keybase](https://www.shielder.it/blog/1-click-rce-on-keybase/)
+
+* [Why anti-cheat software utilize kernel drivers](https://secret.club/2020/04/17/kernel-anticheats.html)
+
+* [Content Type Forcing – The XSS you may have missed.](https://anotherhackerblog.com/content-type-forcing-xss/)
+
+* [PHPUnit: A Security Risk?](https://thephp.cc/news/2020/02/phpunit-a-security-risk)
+
+* [QNAP Pre-Auth Root RCE Affecting ~312K Devices on the Internet](https://medium.com/bugbountywriteup/qnap-pre-auth-root-rce-affecting-450k-devices-on-the-internet-d55488d28a05)
+
+* [ SOHO Device Exploitation](https://blog.grimm-co.com/2020/06/soho-device-exploitation.html)
+
+* [SSD Advisory – Roundcube Incoming Emails Stored XSS](https://ssd-disclosure.com/ssd-advisory-roundcube-incoming-emails-stored-xss/)
+
 Privacy /
 ------------
 
@@ -426,6 +554,10 @@ Privacy /
 * [Facebook planned to spy on Android phone users, internal emails reveal](https://www.computerweekly.com/news/252458208/Facebook-planned-to-spy-on-Android-phone-users-internal-emails-reveal)
 
 * [Microsoft Contractors Are Listening to Some Skype Calls](https://www.vice.com/en_us/article/xweqbq/microsoft-contractors-listen-to-skype-calls)
+
+* [Revealed: how drugs giants can access your health records](https://www.theguardian.com/technology/2020/feb/08/fears-over-sale-anonymous-nhs-patient-data)
+
+* [Clear Channel’s billboards will start tracking consumers in Europe](https://www.theverge.com/platform/amp/2020/8/10/21361734/clear-channel-billboards-privacy-ad-tracking-europe)
 
 IT stories / How it works ?
 ---------------------------
@@ -449,6 +581,14 @@ IT stories / How it works ?
 * [The Project Jengo Saga: How Cloudflare Stood up to a Patent Troll – and Won!](https://blog.cloudflare.com/the-project-jengo-saga-how-cloudflare-stood-up-to-a-patent-troll-and-won/)
 
 * [Building a BitTorrent client from the ground up in Go](https://blog.jse.li/posts/torrent/)
+
+* [Deep dive into the world of illegal streaming](https://medium.com/@laurentmeyer/deep-dive-in-the-illegal-streaming-world-cd11fae63497)
+
+* [The Inside Story Behind MS08-067](https://github.com/JohnLaTwC/Shared/blob/master/The%20Inside%20Story%20Behind%20MS08-067.md)
+
+* [The Githubification of InfoSec](https://medium.com/@johnlatwc/the-githubification-of-infosec-afbdbfaad1d1)
+
+* [How SSL Kill Switch works on iOS 12](https://nabla-c0d3.github.io/blog/2019/05/18/ssl-kill-switch-for-ios12/)
 
 What a story !
 --------------
@@ -533,6 +673,37 @@ What a story !
 
 * [The Mysterious Lawyer X](https://story.californiasunday.com/lawyer-x-melbourne)
 
+* [A Pro-Trump Blog Doxed A Chinese Scientist It Falsely Accused Of Creating The Coronavirus As A Bioweapon](https://www.buzzfeednews.com/article/ryanhatesthis/a-pro-trump-blog-has-doxed-a-chinese-scientist-it-falsely)
+
+* [Target's Delivery App Workers Describe a Culture of Retaliation and Fear](https://www.vice.com/en_us/article/dygxzw/target-shipt-delivery-app-workers-retaliation)
+
+* [DEA Agent Who Faked a Murder and Took Bitcoins from Silk Road Explains Himself](https://www.vice.com/en_us/article/8q845p/dea-agent-who-faked-a-murder-and-took-bitcoins-from-silk-road-explains-himself)
+
+* [Is Zero Hedge a Russian Trojan Horse?](https://newrepublic.com/article/156788/zero-hedge-russian-trojan-horse)
+
+* [Zero Hedge, Russia, and the Business of Conspiracies](https://trump-russia.com/2019/12/09/zero-hedge-russia-and-the-business-of-conspiracies/)
+
+* [Zero Hedge, Bulgaria, and Me](https://trump-russia.com/2020/01/10/zero-hedge-bulgaria-and-me/)
+
+* [The Korean clusters](https://graphics.reuters.com/CHINA-HEALTH-SOUTHKOREA-CLUSTERS/0100B5G33SB/index.html)
+
+* [Here's how Iceland radically cut teenage drug use](https://www.weforum.org/agenda/2018/10/iceland-knows-how-to-stop-teen-substance-abuse-but-the-rest-of-the-world-isn-t-listening)
+
+* [This Vast Photo Archive Is Hidden Inside a Cold, Heavily Guarded Limestone Mine](https://www.atlasobscura.com/articles/hidden-photo-archive-mine)
+
+* [The King of Germany Will Accept Your Bank Deposits Now](https://www.bloomberg.com/news/features/2020-05-19/who-is-germany-s-self-proclaimed-king-peter-fitzek)
+
+* [How I Sold My Company to Twitter, Went to Facebook, and Screwed My Co-Founders](https://www.wired.com/2016/06/how-i-sold-my-company-to-twitter-went-to-facebook-and-screwed-my-co-founders/)
+
+* [Did a Chinese Hack Kill Canada’s Greatest Tech Company?](https://www.bloomberg.com/news/features/2020-07-01/did-china-steal-canada-s-edge-in-5g-from-nortel)
+
+* [The true story of the heartthrob prince of Qatar and his time at USC ](https://www.latimes.com/california/story/2020-07-16/qatar-prince-usc-ucla-la)
+
+* [How a Fake CIA Spy Fooled Everyone and Swindled Millions](https://www.thedailybeast.com/how-fake-cia-spy-garrison-courtney-fooled-everyone-and-swindled-millions)
+
+* [How a Powerful Nissan Insider Tore Apart Carlos Ghosn’s Legacy](https://www.bloomberg.com/features/2020-ghosn-nada-nissan)
+
+* [How Big Oil Misled The Public Into Believing Plastic Would Be Recycled](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled) ❤️
 
 Dead Links
 ----------
