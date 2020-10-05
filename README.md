@@ -621,7 +621,7 @@ What a story !
 
 * [Catfished by Jacob Wohl](https://gen.medium.com/catfished-by-jacob-wohl-23f35da1cbcc)
 
-* [Security reports reveal how Assange turned an embassy into a command post for election meddling](https://edition.cnn.com/2019/07/15/politics/assange-embassy-exclusive-documents/index.html)
+* [Security reports reveal how Assange turned an embassy into a command post for election meddling](https://edition.cnn.com/2019/07/15/politics/assange-embassy-exclusive-documents/index.html) ❤️
 
 * [Guantánamo’s Darkest Secret](https://www.newyorker.com/magazine/2019/04/22/guantanamos-darkest-secret) ❤️❤️
 
@@ -732,14 +732,4 @@ What a story !
 * [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) ❤️
 
 * [Addicted to losing: How casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
-
-Dead Links
-----------
-
-* https://blog.zerononcense.com/2018/10/28/whalepool-and-bitfinex-are-now-violating-federal-laws-to-dox-members-of-the-crypto-community-its-getting-out-of-hand-now
-
-* https://blog.zerononcense.com/2019/02/16/report-shows-quadrigacx-cold-wallets-actively-involved-in-significant-criminal-activity-ties-to-silk-road-hacked-funds-identity-theft-and-drug-human-trafficking
-
-* https://www.sec-down.com/wordpress/?p=809
-
 
