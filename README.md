@@ -144,6 +144,10 @@ Finance / economy / trading / invest / fintech
 
 * [You Can’t Kill the Bloomberg Terminal. But If You Were Going to Try, Here’s How.](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 
+* [The economics of the Tour de France ](https://thehustle.co/the-economics-of-the-tour-de-france/) ❤️
+
+* [How One Piece of Hardware Took Down a $6 Trillion Stock Market](https://www.bloomberg.com/news/articles/2020-10-02/how-one-piece-of-hardware-took-down-a-6-trillion-stock-market)
+
 Ad fraud / Adpocalypse / Fake
 -----------------------------
 
@@ -208,6 +212,14 @@ Online radicalization / Fake News / Social Network
 
 * [Neo-Nazi Memoir Describes Terror Group’s Acid-Soaked Ram Sacrifice](https://www.vice.com/en_us/article/z3e3ew/neo-nazi-memoir-describes-terror-groups-acid-soaked-ram-sacrifice)
 
+* [https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
+
+* [The Prophecies of Q](https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567) ❤️
+
+* [“I Have Blood On My Hands”: A Whistleblower Says Facebook Ignored Global Political Manipulation](https://www.buzzfeednews.com/article/craigsilverman/facebook-ignore-political-manipulation-whistleblower-memo)
+
+* [MARK IN THE MIDDLE](https://www.theverge.com/21444203/facebook-leaked-audio-zuckerberg-trump-pandemic-blm)
+
 Opioid crisis / The Sacklers's arc / Oxycontin
 ----------------------------------------------
 
@@ -257,6 +269,8 @@ Architecture / Photo / Other / Art
 * [50 Cent loses it at Aussie painting murals of him as Taylor Swift & Trump](https://tonedeaf.thebrag.com/50-cent-feuding-with-aussie-artist/)
 
 * [The Perfect Art Heist: Hack the Money, Leave the Painting](https://www.bloomberg.com/features/2020-perfect-art-heist)
+
+* [The Inside Story of the $8 Million Heist From the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -546,6 +560,10 @@ Exploit / 1337 / Bug Bounty
 
 * [SSD Advisory – Roundcube Incoming Emails Stored XSS](https://ssd-disclosure.com/ssd-advisory-roundcube-incoming-emails-stored-xss/)
 
+* [How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html)
+
+* [The Powerful HTTP Request Smuggling](https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142)
+
 Privacy /
 ------------
 
@@ -589,6 +607,8 @@ IT stories / How it works ?
 * [The Githubification of InfoSec](https://medium.com/@johnlatwc/the-githubification-of-infosec-afbdbfaad1d1)
 
 * [How SSL Kill Switch works on iOS 12](https://nabla-c0d3.github.io/blog/2019/05/18/ssl-kill-switch-for-ios12/)
+
+* [USB-C Was Supposed to Simplify Our Lives. Instead, It’s a Total Mess.](https://onezero.medium.com/usb-c-was-supposed-to-simplify-our-lives-instead-its-a-total-mess-626bb2ea3688)
 
 What a story !
 --------------
@@ -704,6 +724,14 @@ What a story !
 * [How a Powerful Nissan Insider Tore Apart Carlos Ghosn’s Legacy](https://www.bloomberg.com/features/2020-ghosn-nada-nissan)
 
 * [How Big Oil Misled The Public Into Believing Plastic Would Be Recycled](https://www.npr.org/2020/09/11/897692090/how-big-oil-misled-the-public-into-believing-plastic-would-be-recycled) ❤️
+
+* [The rise of Japan's 'super solo' culture](https://www.bbc.com/worklife/article/20200113-the-rise-of-japans-super-solo-culture)
+
+* [Ghosn Son Paid $500,000 to Accused Escape Accomplice, U.S. Says](https://www.bloomberg.com/news/articles/2020-07-23/ghosn-son-paid-500-000-to-accused-escape-accomplice-u-s-says)
+
+* [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) ❤️
+
+* [Addicted to losing: How casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 
 Dead Links
 ----------
