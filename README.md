@@ -212,7 +212,7 @@ Online radicalization / Fake News / Social Network
 
 * [Neo-Nazi Memoir Describes Terror Group’s Acid-Soaked Ram Sacrifice](https://www.vice.com/en_us/article/z3e3ew/neo-nazi-memoir-describes-terror-groups-acid-soaked-ram-sacrifice)
 
-* [https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
+* [How Two British Orthodontists Became Celebrities to Incels](https://www.nytimes.com/2020/08/20/magazine/teeth-mewing-incels.html)
 
 * [The Prophecies of Q](https://www.theatlantic.com/magazine/archive/2020/06/qanon-nothing-can-stop-what-is-coming/610567) ❤️
 
