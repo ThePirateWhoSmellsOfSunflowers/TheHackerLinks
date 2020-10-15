@@ -141,6 +141,7 @@ Opioid crisis / The Sacklers's arc / Oxycontin
 * [Health-Records Company Pushed Opioids to Doctors in Secret Deal With Drugmaker](https://www.bloomberg.com/news/articles/2020-01-29/health-records-company-pushed-opioids-to-doctors-in-secret-deal)
 * [How the Sacklers Shifted $10.8 Billion of Their Opioid Fortune](https://www.bloomberg.com/graphics/2020-sackler-family-money/)
 * [U.S. states seek $2.2 trillion from OxyContin maker Purdue Pharma: filings](https://www.reuters.com/article/us-purdue-pharma-investigations-opioids/u-s-states-seek-2-2-trillion-from-oxycontin-maker-purdue-pharma-filings-idUSKCN25D2EG?il=0)
+* [The Sackler Family’s Plan to Keep Its Billions](https://www.newyorker.com/news/news-desk/the-sackler-familys-plan-to-keep-its-billions)
 
 Architecture / Photo / Other / Art
 ----------------------------------
@@ -160,6 +161,7 @@ Architecture / Photo / Other / Art
 * [50 Cent loses it at Aussie painting murals of him as Taylor Swift & Trump](https://tonedeaf.thebrag.com/50-cent-feuding-with-aussie-artist/)
 * [The Perfect Art Heist: Hack the Money, Leave the Painting](https://www.bloomberg.com/features/2020-perfect-art-heist)
 * [The Inside Story of the $8 Million Heist From the Carnegie Library](https://www.smithsonianmag.com/arts-culture/theft-carnegie-library-books-maps-artworks-180975506/)
+* [From viral conspiracies to exam fiascos, algorithms come with serious side effects](https://www.theguardian.com/technology/2020/sep/06/from-viral-conspiracies-to-exam-fiascos-algorithms-come-with-serious-side-effects)
 
 Spying tool / Spy / Cyber war
 -----------------------------
@@ -196,6 +198,8 @@ Spying tool / Spy / Cyber war
 * [The man who built a spyware empire says it’s time to come out of the shadows](https://www.technologyreview.com/2020/08/19/1007337/shalev-hulio-nso-group-spyware-interview)
 * [Inside NSO, Israel’s billion-dollar spyware giant](https://www.technologyreview.com/2020/08/19/1006458/nso-spyware-controversy-pegasus-human-rights)
 * [Cellphone Hacking and Millions in Gulf Deals: Inner Workings of Top Secret Israeli Cyberattack Firm Revealed](https://www.haaretz.com/israel-news/tech-news/.premium-mobile-spytech-millions-in-gulf-deals-top-secret-israeli-cyberattack-firm-reve-1.9125915)
+* [A China-Linked Group Repurposed Hacking Team’s Stealthy Spyware](https://www.wired.com/story/hacking-team-uefi-tool-spyware/)
+* [The CIA sent a team of 4 operators on a spy mission targeting China. None came back](https://news.yahoo.com/the-cia-sent-a-team-of-four-operators-on-a-spy-mission-targeting-china-none-came-back-090041816.html)
 
 Hacking Team / Hacked Team
 --------------------------
@@ -247,6 +251,7 @@ Cybercrime / Crime
 * [The Great $50M African IP Address Heist](https://krebsonsecurity.com/2019/12/the-great-50m-african-ip-address-heist/)
 * [Inside an Instagram Celebrity Hacking Campaign](https://www.vice.com/en_us/article/z3bkjy/inside-instagram-celebrity-hacking)
 * [The Inside Scoop on a Six-Figure Nigerian Fraud Campaign](https://research.checkpoint.com/2020/the-inside-scoop-on-a-six-figure-nigerian-fraud-campaign/)
+* [Scars, Tattoos, And License Plates: This Is What Palantir And The LAPD Know About You](https://www.buzzfeednews.com/article/carolinehaskins1/training-documents-palantir-lapd)
 
 Infosec world / Infosec news
 ----------------------------
@@ -321,6 +326,7 @@ Exploit / 1337 / Bug Bounty
 * [SSD Advisory – Roundcube Incoming Emails Stored XSS](https://ssd-disclosure.com/ssd-advisory-roundcube-incoming-emails-stored-xss/)
 * [How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html)
 * [The Powerful HTTP Request Smuggling](https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142)
+* [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser/)
 
 Privacy /
 ------------
@@ -413,4 +419,4 @@ What a story !
 * [Ghosn Son Paid $500,000 to Accused Escape Accomplice, U.S. Says](https://www.bloomberg.com/news/articles/2020-07-23/ghosn-son-paid-500-000-to-accused-escape-accomplice-u-s-says)
 * [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) ❤️
 * [Addicted to losing: How casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
-
+* [The Cheating Scandal That Ripped the Poker World Apart](https://www.wired.com/story/stones-poker-cheating-scandal/)
