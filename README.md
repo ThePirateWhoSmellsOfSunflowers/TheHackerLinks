@@ -88,6 +88,7 @@ Finance / economy / trading / invest / fintech
 * [You Can’t Kill the Bloomberg Terminal. But If You Were Going to Try, Here’s How.](https://marker.medium.com/why-its-hard-to-kill-the-bloomberg-terminal-61073482e496)
 * [The economics of the Tour de France ](https://thehustle.co/the-economics-of-the-tour-de-france/) ❤️
 * [How One Piece of Hardware Took Down a $6 Trillion Stock Market](https://www.bloomberg.com/news/articles/2020-10-02/how-one-piece-of-hardware-took-down-a-6-trillion-stock-market)
+* [Reddit's Stock Threads Become a Must-Read on Wall Street](https://www.bloomberg.com/news/articles/2020-09-15/big-investors-are-dying-to-know-what-the-little-guys-are-doing)
 
 Ad fraud / Adpocalypse / Fake
 -----------------------------
@@ -200,6 +201,7 @@ Spying tool / Spy / Cyber war
 * [Cellphone Hacking and Millions in Gulf Deals: Inner Workings of Top Secret Israeli Cyberattack Firm Revealed](https://www.haaretz.com/israel-news/tech-news/.premium-mobile-spytech-millions-in-gulf-deals-top-secret-israeli-cyberattack-firm-reve-1.9125915)
 * [A China-Linked Group Repurposed Hacking Team’s Stealthy Spyware](https://www.wired.com/story/hacking-team-uefi-tool-spyware/)
 * [The CIA sent a team of 4 operators on a spy mission targeting China. None came back](https://news.yahoo.com/the-cia-sent-a-team-of-four-operators-on-a-spy-mission-targeting-china-none-came-back-090041816.html)
+* [Obscure Indian cyber firm spied on politicians, investors worldwide](https://www.reuters.com/article/us-india-cyber-mercenaries-exclusive-idUSKBN23G1GQ)
 
 Hacking Team / Hacked Team
 --------------------------
@@ -225,6 +227,8 @@ OSINT / Mostly bell¿ngcat
 * [Creating Impact: A Year On Stop Child Abuse —Trace An Object ](https://www.bellingcat.com/news/uk-and-europe/2020/04/22/creating-impact-a-year-on-stop-child-abuse-trace-an-object/)
 * [The Invasion of Venezuela, Brought To You By Silvercorp USA ](https://www.bellingcat.com/news/2020/05/05/the-invasion-of-venezuela-brought-to-you-by-silvercorp-usa/)
 * [Who Is Dmitry Badin, The GRU Hacker Indicted By Germany Over The Bundestag Hacks?](https://www.bellingcat.com/news/2020/05/05/who-is-dmitry-badin-the-gru-hacker-indicted-by-germany-over-the-bundestag-hacks/)
+* [How British-made sniper rifles ended up in Yemen, Syria and Ukraine ](https://www.bellingcat.com/news/2020/10/10/how-british-made-sniper-rifles-ended-up-in-yemen-and-syria/)
+* []()
 
 Cybercrime / Crime
 ------------------
@@ -271,6 +275,7 @@ Infosec world / Infosec news
 * [Love Bug's creator tracked down to repair shop in Manila](https://www.bbc.com/news/technology-52458765)
 * [Facebook Helped the FBI Hack a Child Predator](https://www.vice.com/en_us/article/v7gd9b/facebook-helped-fbi-hack-child-predator-buster-hernandez)
 * [Hidden Linux kernel security fixes spotted before release – by using developer chatter as a side channel](https://www.theregister.com/2020/09/04/linux_kernel_flaw_detection/)
+* [People Are Jailbreaking Used Teslas to Get the Features They Expect](https://www.vice.com/en/article/y3mb3w/people-are-jailbreaking-used-teslas-to-get-the-features-they-expect)
 
 Exploit / 1337 / Bug Bounty
 ---------------------------
@@ -327,6 +332,8 @@ Exploit / 1337 / Bug Bounty
 * [How I Hacked Facebook Again! Unauthenticated RCE on MobileIron MDM](https://blog.orange.tw/2020/09/how-i-hacked-facebook-again-mobileiron-mdm-rce.html)
 * [The Powerful HTTP Request Smuggling](https://medium.com/@ricardoiramar/the-powerful-http-request-smuggling-af208fafa142)
 * [How to Store Session Tokens in a Browser (and the impacts of each)](https://blog.ropnop.com/storing-tokens-in-browser/)
+* [We Hacked Apple for 3 Months: Here’s What We Found](https://samcurry.net/hacking-apple/)
+* [Secret fragments: Remote code execution on Symfony based websites](https://www.ambionics.io/blog/symfony-secret-fragment)
 
 Privacy /
 ------------
@@ -420,3 +427,5 @@ What a story !
 * [When you browse Instagram and find former Australian Prime Minister Tony Abbott's passport number](https://mango.pdf.zone/finding-former-australian-prime-minister-tony-abbotts-passport-number-on-instagram) ❤️
 * [Addicted to losing: How casino-like apps have drained people of millions](https://www.nbcnews.com/tech/tech-news/addicted-losing-how-casino-apps-have-drained-people-millions-n1239604)
 * [The Cheating Scandal That Ripped the Poker World Apart](https://www.wired.com/story/stones-poker-cheating-scandal/)
+* [The 8th wonder of the world](https://www.theverge.com/21507966/foxconn-empty-factories-wisconsin-jobs-loophole-trump)
+* [The company that has a monopoly on ice cream truck music ](https://thehustle.co/the-company-that-has-a-monopoly-on-ice-cream-truck-music/)
